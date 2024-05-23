@@ -1,0 +1,8 @@
+prefix=/home/gnss/dev/module_test/catkin_ws_rivu/devel
+
+Name: ins_driver
+Description: Description of ins_driver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp roslib rospy std_msgs geometry_msgs sensor_msgs nav_msgs

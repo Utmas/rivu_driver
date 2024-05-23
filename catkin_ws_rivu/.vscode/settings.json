@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/gnss/dev/module_test/catkin_ws_rivu/devel/lib/python3/dist-packages",
+        "/home/gnss/dev/catkin_ws_clu/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/gnss/dev/module_test/catkin_ws_rivu/devel/lib/python3/dist-packages",
+        "/home/gnss/dev/catkin_ws_clu/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

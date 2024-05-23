@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gnss/dev/module_test/catkin_ws_rivu/src/ins_driver/ins_driver/src/serial.cpp
+serial.h
+/home/gnss/dev/module_test/catkin_ws_rivu/src/ins_driver/ins_driver/src/serial.h
+
+/home/gnss/dev/module_test/catkin_ws_rivu/src/ins_driver/ins_driver/src/serial.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/signal.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+termios.h
+-
+errno.h
+-
+limits.h
+-
+string.h
+-
+

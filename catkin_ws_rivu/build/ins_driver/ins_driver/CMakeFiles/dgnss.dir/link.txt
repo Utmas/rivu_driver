@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11  -shared -Wl,-soname,libdgnss.so -o /home/gnss/dev/module_test/catkin_ws_rivu/devel/lib/libdgnss.so CMakeFiles/dgnss.dir/src/dgnss/dgnss.cpp.o CMakeFiles/dgnss.dir/src/dgnss/ring_buffer.c.o  -Wl,-rpath,/home/gnss/dev/module_test/catkin_ws_rivu/devel/lib /home/gnss/dev/module_test/catkin_ws_rivu/devel/lib/libserial_driver_libs.so 

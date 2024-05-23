@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gnss/dev/module_test/catkin_ws_rivu/devel/setup.sh

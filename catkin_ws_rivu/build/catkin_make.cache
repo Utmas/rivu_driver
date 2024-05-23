@@ -1,0 +1,2 @@
+ins_driver/ins_driver:ins_driver/interface/driver_msgs/ins_msg
+-DCATKIN_DEVEL_PREFIX=/home/gnss/dev/module_test/catkin_ws_rivu/devel -DCMAKE_INSTALL_PREFIX=/home/gnss/dev/module_test/catkin_ws_rivu/install -G Unix Makefiles
